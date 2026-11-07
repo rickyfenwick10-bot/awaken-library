@@ -4,21 +4,23 @@ Free survival, first aid and preparedness documents to use with the **Awaken** o
 
 **These are guides, not a replacement for first aid training or the emergency services. In an emergency call 999 or 112.**
 
-## What is in each download
+## What is in each folder
 
-| File | Contents | Licence |
+Open a folder to read or download a single document. To get everything: green Code button, then Download ZIP (about 370 MB). Keep it on your phone, tablet or a data pen so it works offline.
+
+| Folder | Contents | Licence |
 |---|---|---|
-| 01-Military-survival.zip | US military survival manuals | US Government works (public domain) |
-| 02-Field-skills.zip | Navigation, hygiene, signals, mountaineering and other field manuals | US Government works (public domain) |
-| 03-First-aid-and-medical.zip | US military first aid and medical handbooks | US Government works (public domain) |
-| 04-Classic-manuals.zip | Old woodcraft and trapping books, USDA canning guide, others | Public domain / US Government |
-| 05-Preparedness-guides.zip | UK Be Ready checklist, UK National Risk Register, FEMA and DoD guides | Open Government Licence v3.0 / US Government |
-| 06-Nuclear-and-CBRN.zip | Fallout shelter and nuclear/chemical protection manuals | US Government works / ORNL (see notice in file) |
-| 08-Replacements-open-licence.zip | Kephart Camping and Woodcraft (1917), HSE gas safety leaflet, CDC power cut guide | Public domain / Open Government Licence |
-| 09-Awaken-original-checklists.zip | 8 UK checklists written for Awaken | CC0 (public domain) |
-| 10-Non-commercial-only.zip | IFRC first aid, Hesperian health guides, Canadian military manuals, WHO-ICRC Basic Emergency Care | **Non-commercial use only, with credit** (see below) |
-| 11-US-Army-marked-restricted.zip | Four US Army manuals whose covers carry an old "US Government only" marking; included on owner clearance check | US Government works |
-| 12-Expansion.zip | FEMA Are You Ready, Scouting for Boys (1908), Beard Camp-Lore and Woodcraft, Nessmuk Woodcraft (CC BY-SA, credit Joseph Gray), WW2 and 1986 Army manuals | Public domain / CC BY-SA |
+| [01-Military-survival](01-Military-survival) | US military survival manuals | US Government works (public domain) |
+| [02-Field-skills](02-Field-skills) | Navigation, hygiene, signals, mountaineering and other field manuals | US Government works (public domain) |
+| [03-First-aid-and-medical](03-First-aid-and-medical) | US military first aid and medical handbooks | US Government works (public domain) |
+| [04-Classic-manuals](04-Classic-manuals) | Old woodcraft and trapping books, USDA canning guide, others | Public domain / US Government |
+| [05-Preparedness-guides](05-Preparedness-guides) | UK Be Ready checklist, UK National Risk Register, FEMA and DoD guides | Open Government Licence v3.0 / US Government |
+| [06-Nuclear-and-CBRN](06-Nuclear-and-CBRN) | Fallout shelter and nuclear/chemical protection manuals | US Government works / ORNL (see notice in file) |
+| [08-Replacements-open-licence](08-Replacements-open-licence) | Kephart Camping and Woodcraft (1917), HSE gas safety leaflet, CDC power cut guide | Public domain / Open Government Licence |
+| [09-Awaken-original-checklists](09-Awaken-original-checklists) | 8 UK checklists written for Awaken | CC0 (public domain) |
+| [10-Non-commercial-only](10-Non-commercial-only) | IFRC first aid, Hesperian health guides, Canadian military manuals, WHO-ICRC Basic Emergency Care | **Non-commercial use only, with credit** (see below) |
+| [11-US-Army-marked-restricted](11-US-Army-marked-restricted) | Four US Army manuals whose covers carry an old "US Government only" marking; included on owner clearance check | US Government works |
+| [12-Expansion](12-Expansion) | FEMA Are You Ready, Scouting for Boys (1908), Beard Camp-Lore and Woodcraft, Nessmuk Woodcraft (CC BY-SA, credit Joseph Gray), WW2 and 1986 Army manuals | Public domain / CC BY-SA |
 
 `LICENCES.csv` lists the licence or basis for every file. `NOT-INCLUDED-link-only.csv` lists documents that were deliberately left out because their licence does not allow redistribution here, with the official place to download each one.
 
